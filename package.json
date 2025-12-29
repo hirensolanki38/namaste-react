@@ -1,0 +1,27 @@
+{
+  "name": "namste-react",
+  "version": "1.0.0",
+  "description": "This is Namste React by Akshay Saini",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hirensolanki38/namaste-react.git"
+  },
+  "keywords": [
+    "react",
+    "learning",
+    "hiren"
+  ],
+  "author": "Hiren Solanki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hirensolanki38/namaste-react/issues"
+  },
+  "homepage": "https://github.com/hirensolanki38/namaste-react#readme",
+  "devDependencies": {
+    "parcel": "^2.16.3"
+  }
+}
